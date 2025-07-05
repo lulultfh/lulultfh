@@ -1,11 +1,12 @@
 <div align="center">
 
-## Hi, I'm Lulu 👋
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Lulu" alt="Typing SVG" /></a>
 
 a tech enthu, a longlife learner <br>
 always curious, forever caffeinated
 
 [🔗peep my works here](https://lululuthfiah-portfolio.vercel.app/)
+
 </div>
 <!--
 **lulultfh/lulultfh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
