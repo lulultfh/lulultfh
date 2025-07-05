@@ -2,10 +2,11 @@
 
 ## Hi, I'm Lulu 👋
 
-a tech enthu, a longlive learner <br>
+a tech enthu, a longlife learner <br>
 always curious, forever caffeinated
-</div>
 
+[🔗peep my works here](https://lululuthfiah-portfolio.vercel.app/)
+</div>
 <!--
 **lulultfh/lulultfh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
