@@ -2,7 +2,7 @@
 
 ## Hi, I'm Lulu 👋
 
-a tech enthu, a longlive learner
+a tech enthu, a longlive learner <br>
 always curious, forever caffeinated
 </div>
 
