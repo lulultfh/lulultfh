@@ -5,9 +5,7 @@
 a tech enthu, a longlife learner <br>
 always curious, forever caffeinated
 
-<p align="center">
-  <img src="[https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejd3c2lxdGhwbDF4emxzaXQ0cjcxZmRubmRmZDB6cW1ra2w4MGhkeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lJNoBCvQYp7nq/giphy.gif)" width="300" />
-</p>
+![kucing lucu](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejd3c2lxdGhwbDF4emxzaXQ0cjcxZmRubmRmZDB6cW1ra2w4MGhkeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lJNoBCvQYp7nq/giphy.gif)
 
 [🔗peep my works here](https://lululuthfiah-portfolio.vercel.app/)
 
