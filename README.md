@@ -3,7 +3,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=600&pause=1000&color=B82132&background=F6DED8&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Lulu%F0%9F%91%8B)](https://git.io/typing-svg)
 
 a tech enthu, a longlife learner <br>
-always curious, forever caffeinated
+always curious, forever caffeinated😼
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejd3c2lxdGhwbDF4emxzaXQ0cjcxZmRubmRmZDB6cW1ra2w4MGhkeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lJNoBCvQYp7nq/giphy.gif" width="150" />
 
