@@ -1,4 +1,4 @@
-<div align="center" style="background-color:#F2B28C">
+<div align="center">
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=600&pause=1000&color=B82132&background=F6DED8&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Lulu%F0%9F%91%8B)](https://git.io/typing-svg)
 
