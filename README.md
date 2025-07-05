@@ -1,6 +1,10 @@
-## Hi, I'm Lulu 👋 
+<div align="center">
 
-a tech enthu, a longlive learner, and maybe a little sleep-deprived
+## Hi, I'm Lulu 👋
+
+a tech enthu, a longlive learner
+always curious, forever caffeinated
+</div>
 
 <!--
 **lulultfh/lulultfh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
