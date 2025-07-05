@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Lulu 👋 
+
+a tech enthu, a longlive learner, and maybe a little sleep-deprived
 
 <!--
 **lulultfh/lulultfh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
