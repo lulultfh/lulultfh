@@ -23,7 +23,6 @@ always curious, forever caffeinated😼
     <img src="https://skillicons.dev/icons?i=docker" />
   </a>
 </p>
-</div>
 
 ### Machine Learning
 <p align="center">
@@ -31,7 +30,6 @@ always curious, forever caffeinated😼
     <img src="https://skillicons.dev/icons?i=sklearn,tensorflow" />
   </a>
 </p>
-</div>
 
 ### Robotic Software
 <p align="center">
