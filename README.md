@@ -8,8 +8,9 @@ always curious, forever caffeinated😼
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejd3c2lxdGhwbDF4emxzaXQ0cjcxZmRubmRmZDB6cW1ra2w4MGhkeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lJNoBCvQYp7nq/giphy.gif" width="150" />
 
 [🔗peep my works here](https://lululuthfiah-portfolio.vercel.app/)
-
-## Languages
+</div>
+<div align="left">
+  ## Languages
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,cs,java,js,php,py,r" />
@@ -38,6 +39,7 @@ always curious, forever caffeinated😼
   </a>
 </p>
 </div>
+
 <!--
 **lulultfh/lulultfh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
