@@ -12,6 +12,17 @@ always curious, forever caffeinated😼
 <div align="left">
   
 ## Languages
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=lulultfh&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,cs,java,js,php,py,r" />
