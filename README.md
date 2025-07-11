@@ -27,9 +27,9 @@ always curious, forever caffeinated😼
 <div align="left">
   
 ## Languages
-<div>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lulultfh&layout=compact&bg_color=30,B82132,F2B28C&title_color=B82132&text_color=5C1A1B&icon_color=D2665A&border_color=D2665A)
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lulultfh&layout=compact&bg_color=30,B82132,F2B28C&title_color=B82132&text_color=5C1A1B&icon_color=D2665A&border_color=D2665A" />
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
