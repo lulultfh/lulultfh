@@ -9,20 +9,25 @@ always curious, forever caffeinated😼
 
 [🔗peep my works here](https://lululuthfiah-portfolio.vercel.app/)
 </div>
-<div align="left">
-  
-## Languages
-<picture align="center">
+
+<div align="center">
+  <picture align="center">
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=lulultfh&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=lulultfh&show_icons=true"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: dark)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=lulultfh&show_icons=true" />
 </picture>
+</div>
+
+<div align="left">
+  
+## Languages
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,cs,java,js,php,py,r" />
