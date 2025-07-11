@@ -27,7 +27,9 @@ always curious, forever caffeinated😼
 <div align="left">
   
 ## Languages
-
+<div>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lulultfh&layout=compact)
+</div>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,cs,java,js,php,py,r" />
