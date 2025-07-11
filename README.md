@@ -12,16 +12,16 @@ always curious, forever caffeinated😼
 
 <div align="center">
   <picture align="center">
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=lulultfh&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=lulultfh&show_icons=true"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=lulultfh&show_icons=true" />
-</picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=lulultfh&show_icons=true&bg_color=000000&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&border_color=ff69b4"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=lulultfh&show_icons=true&bg_color=000000&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&border_color=ff69b4"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=lulultfh&show_icons=true&bg_color=000000&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&border_color=ff69b4" />
+  </picture>
 </div>
 
 <div align="left">
