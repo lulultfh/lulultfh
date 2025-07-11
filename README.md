@@ -28,7 +28,7 @@ always curious, forever caffeinated😼
   
 ## Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lulultfh&layout=compact&bg_color=30,B82132,F2B28C&title_color=B82132&text_color=5C1A1B&icon_color=D2665A&border_color=D2665A" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lulultfh&layout=compact&bg_color=000000&title_color=B82132&text_color=F6DED8&icon_color=F2B28C&border_color=D2665A" />
 </p>
 
 <p align="center">
