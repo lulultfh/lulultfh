@@ -1,14 +1,19 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=900&pause=1000&color=FF69B4&center=false&vCenter=true&width=435&lines=Hi%2C+I'm+Lu'lu'%F0%9F%91%8B;a+tech+enthu%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;a+lifelong+learner%F0%9F%90%88%E2%80%8D%E2%AC%9B)](https://git.io/typing-svg)
+## About Me
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=900&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Lu'lu'%F0%9F%91%8B;a+tech+enthu%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;a+lifelong+learner%F0%9F%90%88%E2%80%8D%E2%AC%9B)](https://git.io/typing-svg)
-  
-</div>
-<div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejd3c2lxdGhwbDF4emxzaXQ0cjcxZmRubmRmZDB6cW1ra2w4MGhkeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lJNoBCvQYp7nq/giphy.gif" width="150" /><br>
-  always curious, forever caffeinated😼<br>
-  
-[🔗peep my works here](https://lululuthfiah-portfolio.vercel.app/)
-  
+<table>
+  <tr>
+    <td width="60%" style="border: none;"  valign="middle">
+      I'm an undergraduate student majoring in Information Technology at xxxx, currently focusing on <b>web development</b>, especially <b>front-end engineering</b>. I enjoy creating clean, responsive, and user-friendly applications that provide meaningful experiences.<br><br>
+      Besides web dev, I'm also exploring the world of <b>data science</b> and <b>object detection</b>, and I've also worked on <b>UI/UX projects</b>.
+    </td>
+    <td width="40%" style="border: none;" valign="middle">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejd3c2lxdGhwbDF4emxzaXQ0cjcxZmRubmRmZDB6cW1ra2w4MGhkeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lJNoBCvQYp7nq/giphy.gif" width="150" /><br>
+      always curious, forever caffeinated 😼<br>
+      <a href="https://xxx-portfolio.vercel.app/">🔗 peep my works here</a>
+    </td>
+  </tr>
+</table>
 </div>
 
 ## Github Stats
