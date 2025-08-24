@@ -4,13 +4,13 @@
 <table>
   <tr>
     <td width="60%" style="border: none;"  valign="middle">
-      I'm an undergraduate student majoring in Information Technology at xxxx, currently focusing on <b>web development</b>, especially <b>front-end engineering</b>. I enjoy creating clean, responsive, and user-friendly applications that provide meaningful experiences.<br><br>
+      I'm an undergraduate student majoring in <b>Information Technology</b> at <b>Universitas Muhammadiyah Yogyakarta</b>, currently focusing on <b>web development</b>, especially <b>front-end engineering</b>. I enjoy creating clean, responsive, and user-friendly applications that provide meaningful experiences.<br><br>
       Besides web dev, I'm also exploring the world of <b>data science</b> and <b>object detection</b>, and I've also worked on <b>UI/UX projects</b>.
     </td>
     <td width="40%" style="border: none;" valign="middle">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejd3c2lxdGhwbDF4emxzaXQ0cjcxZmRubmRmZDB6cW1ra2w4MGhkeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lJNoBCvQYp7nq/giphy.gif" width="150" /><br>
       always curious, forever caffeinated 😼<br>
-      <a href="https://xxx-portfolio.vercel.app/">🔗 peep my works here</a>
+      <a href="https://lululuthfiah-portfolio.vercel.app/">🔗 peep my works here</a>
     </td>
   </tr>
 </table>
