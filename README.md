@@ -1,36 +1,26 @@
 <div align="center">
-
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=600&pause=1000&color=B82132&background=F6DED8&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Lulu%F0%9F%91%8B)](https://git.io/typing-svg)
-
-a tech enthu, a lifelong learner <br>
-always curious, forever caffeinated😼
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejd3c2lxdGhwbDF4emxzaXQ0cjcxZmRubmRmZDB6cW1ra2w4MGhkeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lJNoBCvQYp7nq/giphy.gif" width="150" />
-
-[🔗peep my works here](https://lululuthfiah-portfolio.vercel.app/)
-</div>
-
-<div align="center">
-  <picture align="center">
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=lulultfh&show_icons=true&bg_color=000000&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&border_color=ff69b4"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=lulultfh&show_icons=true&bg_color=000000&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&border_color=ff69b4"
-      media="(prefers-color-scheme: light)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=lulultfh&show_icons=true&bg_color=000000&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&border_color=ff69b4" />
-  </picture>
-</div>
-
-<div align="left">
   
-## Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lulultfh&layout=compact&bg_color=000000&title_color=ff69b4&text_color=F6DED8&icon_color=F2B28C&border_color=D2665A" />
-</p>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=900&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Lu'lu'%F0%9F%91%8B;a+tech+enthu%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;a+lifelong+learner%F0%9F%90%88%E2%80%8D%E2%AC%9B)](https://git.io/typing-svg)
+  
+</div>
+<div align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejd3c2lxdGhwbDF4emxzaXQ0cjcxZmRubmRmZDB6cW1ra2w4MGhkeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lJNoBCvQYp7nq/giphy.gif" width="150" /><br>
+  always curious, forever caffeinated😼<br>
+  
+[🔗peep my works here](https://lululuthfiah-portfolio.vercel.app/)
+  
+</div>
 
+## Github Stats
+<div align="center">
+  
+[![](https://github-readme-stats.vercel.app/api?username=lulultfh&show_icons=true&bg_color=000000&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&border_color=ff69b4)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=lulultfh&hide_border=true&background=000000&sideLabels=ffffff&sideNums=ffffff&dates=ffffff&fire=ff69b4&ring=ff69b4&currStreakLabel=ff69b4)](https://git.io/streak-stats)<br/>
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=lulultfh&layout=compact&bg_color=000000&title_color=ff69b4&text_color=F6DED8&icon_color=F2B28C&border_color=D2665A)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+## Languages
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,cs,java,js,php,py,r" />
@@ -41,7 +31,7 @@ always curious, forever caffeinated😼
 ### Web Development
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker" />
+    <img src="https://skillicons.dev/icons?i=docker,express,react" />
   </a>
 </p>
 
@@ -65,7 +55,7 @@ always curious, forever caffeinated😼
     <img src="https://skillicons.dev/icons?i=figma,ps" />
   </a>
 </p>
-</div>
+
 
 <!--
 **lulultfh/lulultfh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
