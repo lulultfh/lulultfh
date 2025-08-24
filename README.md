@@ -20,11 +20,9 @@
 
 ## Github Stats
 <div align="center">
-  
-[![](https://github-readme-stats.vercel.app/api?username=lulultfh&show_icons=true&bg_color=000000&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&border_color=ff69b4)](https://github.com/anuraghazra/github-readme-stats)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=lulultfh&hide_border=true&background=000000&sideLabels=ffffff&sideNums=ffffff&dates=ffffff&fire=ff69b4&ring=ff69b4&currStreakLabel=ff69b4)](https://git.io/streak-stats)<br/>
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=lulultfh&layout=compact&bg_color=000000&title_color=ff69b4&text_color=F6DED8&icon_color=F2B28C&border_color=D2665A)](https://github.com/anuraghazra/github-readme-stats)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=lulultfh&show_icons=true&bg_color=000000&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&border_color=ff69b4" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lulultfh&hide_border=true&background=000000&sideLabels=ffffff&sideNums=ffffff&dates=ffffff&fire=ff69b4&ring=ff69b4&currStreakLabel=ff69b4" height="150" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lulultfh&layout=compact&bg_color=000000&title_color=ff69b4&text_color=F6DED8&icon_color=F2B28C&border_color=D2665A" height="150" />
 </div>
 
 ## Languages
