@@ -10,7 +10,7 @@
        </div>
     </td>
     <td width="40%" style="border: none;" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejd3c2lxdGhwbDF4emxzaXQ0cjcxZmRubmRmZDB6cW1ra2w4MGhkeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lJNoBCvQYp7nq/giphy.gif" width="150" /><br>
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmE0dmJvZXhsdzN1YmVpYWZqbG5ob21tZnQxbnUyZ2U4amp6cHRiZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif" width="150" /><br>
       always curious, forever caffeinated 😼<br>
       <a href="https://lululuthfiah-portfolio.vercel.app/">🔗 peep my works here</a>
     </td>
