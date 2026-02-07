@@ -18,53 +18,32 @@
 </table>
 </div>
 
-## Github Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lulultfh&show_icons=true&bg_color=000000&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&border_color=ff69b4" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lulultfh&hide_border=true&background=000000&sideLabels=ffffff&sideNums=ffffff&dates=ffffff&fire=ff69b4&ring=ff69b4&currStreakLabel=ff69b4" height="150" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lulultfh&layout=compact&bg_color=000000&title_color=ff69b4&text_color=F6DED8&icon_color=F2B28C&border_color=D2665A" height="150" />
-</div>
+## Languages and Tools
+### Programming Language
+ ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python)
+ ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+ ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+ ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+ ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+ ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-## Languages
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,java,js,php,py,r" />
-  </a>
-</p>
-
-## Tools
 ### Web Development
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,express,react" />
-  </a>
-</p>
+ ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+ ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+ ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+ ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+ ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+ ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+ ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-### Machine Learning
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow" />
-  </a>
-</p>
-
-### Robotic Software
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino" />
-  </a>
-</p>
-
-### Design Software
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,ps" />
-  </a>
-</p>
-
+## Github Stats
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lulultfh&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **lulultfh/lulultfh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<p align = "center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=lulultfh&theme=dark&hide_border=false" alt="GitHub Stats streak">
+<p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
