@@ -38,6 +38,7 @@
 
 ## Github Stats
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lulultfh&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://streak-stats.demolab.com?user=lulultfh&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 
 <!--
 **lulultfh/lulultfh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
